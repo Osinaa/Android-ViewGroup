@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextName" type="id">editTextName</item>
+    <item name="editTextAge" type="id">editTextAge</item>
+    <item name="editTextOccupation" type="id">editTextOccupation</item>
+    <item name="editTextAddress" type="id">editTextAddress</item>
+    <item name="buttonAdd" type="id">buttonAdd</item>
+    <item name="buttonListView" type="id">buttonListView</item>
+    <item name="buttonGridView" type="id">buttonGridView</item>
+    <item name="buttonRecyclerView" type="id">buttonRecyclerView</item>
+    <item name="listView" type="id">listView</item>
+    <item name="gridView" type="id">gridView</item>
+    <item name="recyclerView" type="id">recyclerView</item>
+</resources>
